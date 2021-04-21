@@ -14,4 +14,4 @@ In addition to this I was able to examine the different hemispheres and see if t
 
 After looking at weather patterns I filtered my search to those cities that were currently in an ideal temperature range of 75-80 degrees fahrenheit and used Google's map API (https://maps.googleapis.com/maps/api/place/nearbysearch) to search for nearby hotels.
 
-![image](https://user-images.githubusercontent.com/70925750/112421108-7820e100-8cfc-11eb-827b-078aee01eaa9.png)
+![image](https://user-images.githubusercontent.com/70925750/112421108-7820e100-8cfc-11eb-827b-078aee01eaa9.png) 
